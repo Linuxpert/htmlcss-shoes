@@ -51,3 +51,27 @@ h1 {
 #scarpa3 h1 {
     color: green;
 }
+
+#navigazione li{
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+a {
+    
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 15px;
+    border-radius: 100px;
+    
+}
+
+#margine {
+    padding: 30px;
+    position: fixed;
+    top: 10px;
+    right: 50px;
+    z-index: 99;
+}
